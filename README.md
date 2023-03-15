@@ -1,17 +1,17 @@
-# Índice de Cidades Empreendedoras (ICE) 2023
+# Entrepreneurial Cities Index (ICE) 2023
 
-O Índice de Cidades Empreendedoras analisa o ambiente de negócios das 100+1 cidades mais populosas do Brasil para avaliar quais possuem as condições mais propícias para o empreendedorismo. Para isso, os municípios são analisados em 48 indicadores, divididos entre 7 determinantes: ambiente regulatório, infraestrutura, mercado, acesso a capital, inovação, capital humano e cultura.
+The Entrepreneurial Cities Index analyzes the business environment of the 100+1 most populous cities in Brazil to assess which ones have the most favorable conditions for entrepreneurship. To do so, the municipalities are analyzed through 48 indicators, divided into 7 determinants: regulatory environment, infrastructure, market, access to capital, innovation, human capital, and culture.
 
-Os indicadores são calculados a partir de dados primários (coletados diretamente) e secundários (provenientes de outras pesquisas e bases já publicadas), e posteriormente, padronizados e então ponderados por meio de análise fatorial, que nos permite avaliar como as variações naquele indicador contribuem para o resultado final.
+The indicators are calculated from primary data (collected directly) and secondary data (derived from other research and already published databases), and are subsequently standardized and weighted through factor analysis, which allows us to assess how variations in that indicator contribute to the final result.
 
-Desta forma, o ranking final é calculado exclusivamente com base em dados numéricos. Nenhuma informação qualitativa ou percepção subjetiva dos pesquisadores interfere na classificação de uma cidade no Índice. As políticas ou os programas específicos que forem implementados por um município só serão refletidos na classificação da cidade no Índice caso provoquem efeitos (positivos ou negativos) em algum dos indicadores analisados no estudo.
+Thus, the final ranking is calculated exclusively based on numerical data. No qualitative information or subjective perception of the researchers interferes in the classification of a city in the Index. The specific policies or programs implemented by a municipality will only be reflected in the city's classification in the Index if they cause (positive or negative) effects on any of the indicators analyzed in the study.
 
-## Assistentes de Pesquisa para o cálculo do ICE 2023
+## Research Assistants for the calculation of ICE 2023
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/87819151?v=4" width="100px;" alt="Foto do César Freitas"/><br>
+        <img src="https://avatars.githubusercontent.com/u/87819151?v=4" width="100px;" alt="César Freitas' Photo"/><br>
         <sub>
           <b>César Freitas</b>
         </sub>
@@ -19,7 +19,7 @@ Desta forma, o ranking final é calculado exclusivamente com base em dados numé
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/52558320?v=4" width="100px;" alt="Foto do Vitor Borges"/><br>
+        <img src="https://avatars.githubusercontent.com/u/52558320?v=4" width="100px;" alt="Vitor Borges' Photo"/><br>
         <sub>
           <b>Vitor Borges</b>
         </sub>
